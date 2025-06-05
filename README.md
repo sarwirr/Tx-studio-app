@@ -1,4 +1,4 @@
-# Sarra App
+
 
 A modern Next.js application with a clean landing page and interactive dashboard.
 
